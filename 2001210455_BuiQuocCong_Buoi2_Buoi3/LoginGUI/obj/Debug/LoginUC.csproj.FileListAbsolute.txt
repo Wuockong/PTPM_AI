@@ -1,0 +1,11 @@
+F:\_HUIT\APP\PTPM_AI\2001210455_BuiQuocCong_Buoi2\LoginGUI\obj\Debug\LoginGUI.Login.resources
+F:\_HUIT\APP\PTPM_AI\2001210455_BuiQuocCong_Buoi2\LoginGUI\obj\Debug\LoginUC.csproj.GenerateResource.Cache
+F:\_HUIT\APP\PTPM_AI\2001210455_BuiQuocCong_Buoi2\LoginGUI\bin\Debug\LoginGUI.dll
+F:\_HUIT\APP\PTPM_AI\2001210455_BuiQuocCong_Buoi2\LoginGUI\bin\Debug\LoginGUI.pdb
+F:\_HUIT\APP\PTPM_AI\2001210455_BuiQuocCong_Buoi2\LoginGUI\bin\Debug\ClassLibrary1.dll
+F:\_HUIT\APP\PTPM_AI\2001210455_BuiQuocCong_Buoi2\LoginGUI\bin\Debug\ClassLibrary1.pdb
+F:\_HUIT\APP\PTPM_AI\2001210455_BuiQuocCong_Buoi2\LoginGUI\obj\Debug\LoginUC.csprojResolveAssemblyReference.cache
+F:\_HUIT\APP\PTPM_AI\2001210455_BuiQuocCong_Buoi2\LoginGUI\obj\Debug\LoginGUI.dll
+F:\_HUIT\APP\PTPM_AI\2001210455_BuiQuocCong_Buoi2\LoginGUI\obj\Debug\LoginGUI.pdb
+F:\_HUIT\APP\PTPM_AI\2001210455_BuiQuocCong_Buoi2\LoginGUI\bin\Debug\SqlClass.dll
+F:\_HUIT\APP\PTPM_AI\2001210455_BuiQuocCong_Buoi2\LoginGUI\bin\Debug\SqlClass.pdb

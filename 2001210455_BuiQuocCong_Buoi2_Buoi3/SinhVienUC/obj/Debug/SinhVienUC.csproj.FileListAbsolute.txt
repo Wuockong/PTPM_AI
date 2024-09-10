@@ -1,0 +1,9 @@
+F:\_HUIT\APP\PTPM_AI\2001210455_BuiQuocCong_Buoi2\SinhVienUC\bin\Debug\SinhVienUC.dll
+F:\_HUIT\APP\PTPM_AI\2001210455_BuiQuocCong_Buoi2\SinhVienUC\bin\Debug\SinhVienUC.pdb
+F:\_HUIT\APP\PTPM_AI\2001210455_BuiQuocCong_Buoi2\SinhVienUC\obj\Debug\SinhVienUC.csprojResolveAssemblyReference.cache
+F:\_HUIT\APP\PTPM_AI\2001210455_BuiQuocCong_Buoi2\SinhVienUC\obj\Debug\SinhVienUC.UserControl1.resources
+F:\_HUIT\APP\PTPM_AI\2001210455_BuiQuocCong_Buoi2\SinhVienUC\obj\Debug\SinhVienUC.csproj.GenerateResource.Cache
+F:\_HUIT\APP\PTPM_AI\2001210455_BuiQuocCong_Buoi2\SinhVienUC\obj\Debug\SinhVienUC.dll
+F:\_HUIT\APP\PTPM_AI\2001210455_BuiQuocCong_Buoi2\SinhVienUC\obj\Debug\SinhVienUC.pdb
+F:\_HUIT\APP\PTPM_AI\2001210455_BuiQuocCong_Buoi2\SinhVienUC\bin\Debug\SqlClass.dll
+F:\_HUIT\APP\PTPM_AI\2001210455_BuiQuocCong_Buoi2\SinhVienUC\bin\Debug\SqlClass.pdb

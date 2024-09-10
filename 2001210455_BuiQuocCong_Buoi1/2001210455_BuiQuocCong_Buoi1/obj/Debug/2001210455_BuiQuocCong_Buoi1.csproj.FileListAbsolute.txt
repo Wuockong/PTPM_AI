@@ -1,0 +1,10 @@
+F:\_HUIT\APP\PTPMUDTM\2001210455_BuiQuocCong_Buoi1\2001210455_BuiQuocCong_Buoi1\bin\Debug\2001210455_BuiQuocCong_Buoi1.exe.config
+F:\_HUIT\APP\PTPMUDTM\2001210455_BuiQuocCong_Buoi1\2001210455_BuiQuocCong_Buoi1\bin\Debug\2001210455_BuiQuocCong_Buoi1.exe
+F:\_HUIT\APP\PTPMUDTM\2001210455_BuiQuocCong_Buoi1\2001210455_BuiQuocCong_Buoi1\bin\Debug\2001210455_BuiQuocCong_Buoi1.pdb
+F:\_HUIT\APP\PTPMUDTM\2001210455_BuiQuocCong_Buoi1\2001210455_BuiQuocCong_Buoi1\obj\Debug\2001210455_BuiQuocCong_Buoi1.csprojResolveAssemblyReference.cache
+F:\_HUIT\APP\PTPMUDTM\2001210455_BuiQuocCong_Buoi1\2001210455_BuiQuocCong_Buoi1\obj\Debug\_2001210455_BuiQuocCong_Buoi1.Form1.resources
+F:\_HUIT\APP\PTPMUDTM\2001210455_BuiQuocCong_Buoi1\2001210455_BuiQuocCong_Buoi1\obj\Debug\_2001210455_BuiQuocCong_Buoi1.Properties.Resources.resources
+F:\_HUIT\APP\PTPMUDTM\2001210455_BuiQuocCong_Buoi1\2001210455_BuiQuocCong_Buoi1\obj\Debug\2001210455_BuiQuocCong_Buoi1.csproj.GenerateResource.Cache
+F:\_HUIT\APP\PTPMUDTM\2001210455_BuiQuocCong_Buoi1\2001210455_BuiQuocCong_Buoi1\obj\Debug\2001210455_BuiQuocCong_Buoi1.exe
+F:\_HUIT\APP\PTPMUDTM\2001210455_BuiQuocCong_Buoi1\2001210455_BuiQuocCong_Buoi1\obj\Debug\2001210455_BuiQuocCong_Buoi1.pdb
+F:\_HUIT\APP\PTPMUDTM\2001210455_BuiQuocCong_Buoi1\2001210455_BuiQuocCong_Buoi1\obj\Debug\_2001210455_BuiQuocCong_Buoi1.Form2.resources

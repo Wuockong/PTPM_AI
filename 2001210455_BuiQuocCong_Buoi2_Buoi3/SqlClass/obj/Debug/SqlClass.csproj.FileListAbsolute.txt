@@ -1,0 +1,10 @@
+F:\_HUIT\APP\PTPM_AI\2001210455_BuiQuocCong_Buoi2\SqlClass\bin\Debug\SqlClass.dll
+F:\_HUIT\APP\PTPM_AI\2001210455_BuiQuocCong_Buoi2\SqlClass\bin\Debug\SqlClass.pdb
+F:\_HUIT\APP\PTPM_AI\2001210455_BuiQuocCong_Buoi2\SqlClass\obj\Debug\SqlClass.dll
+F:\_HUIT\APP\PTPM_AI\2001210455_BuiQuocCong_Buoi2\SqlClass\obj\Debug\SqlClass.pdb
+D:\_HUIT\APP\PTPM_AI\2001210455_BuiQuocCong_Buoi2\SqlClass\bin\Debug\SqlClass.dll
+D:\_HUIT\APP\PTPM_AI\2001210455_BuiQuocCong_Buoi2\SqlClass\bin\Debug\SqlClass.pdb
+D:\_HUIT\APP\PTPM_AI\2001210455_BuiQuocCong_Buoi2\SqlClass\obj\Debug\SqlClass.csproj.AssemblyReference.cache
+D:\_HUIT\APP\PTPM_AI\2001210455_BuiQuocCong_Buoi2\SqlClass\obj\Debug\SqlClass.csproj.CoreCompileInputs.cache
+D:\_HUIT\APP\PTPM_AI\2001210455_BuiQuocCong_Buoi2\SqlClass\obj\Debug\SqlClass.dll
+D:\_HUIT\APP\PTPM_AI\2001210455_BuiQuocCong_Buoi2\SqlClass\obj\Debug\SqlClass.pdb
